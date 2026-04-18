@@ -1,0 +1,86 @@
+[
+    {
+        "ip": "127.0.0.1",
+        "action": "ADMIN_API",
+        "severity": "HIGH",
+        "timestamp": "2026-04-17 20:46:32.745072"
+    },
+    {
+        "ip": "127.0.0.1",
+        "action": "FILE_ACCESS",
+        "severity": "LOW",
+        "timestamp": "2026-04-17 20:46:51.699534"
+    },
+    {
+        "ip": "127.0.0.1",
+        "action": "FILE_ACCESS",
+        "severity": "HIGH",
+        "timestamp": "2026-04-17 21:02:15.543957"
+    },
+    {
+        "ip": "127.0.0.1",
+        "action": "FILE_ACCESS",
+        "severity": "HIGH",
+        "timestamp": "2026-04-17 21:08:27.645367"
+    },
+    {
+        "ip": "127.0.0.1",
+        "action": "ADMIN_API",
+        "severity": "HIGH",
+        "timestamp": "2026-04-17 22:00:52.352111"
+    },
+    {
+        "ip": "127.0.0.1",
+        "action": "FILE_ACCESS",
+        "severity": "HIGH",
+        "timestamp": "2026-04-18 12:09:05.428161"
+    },
+    {
+        "ip": "127.0.0.1",
+        "action": "ADMIN_API",
+        "severity": "HIGH",
+        "timestamp": "2026-04-18 12:09:41.863156"
+    },
+    {
+        "ip": "127.0.0.1",
+        "action": "FILE_ACCESS",
+        "severity": "HIGH",
+        "timestamp": "2026-04-18 12:31:26.373383"
+    },
+    {
+        "ip": "127.0.0.1",
+        "action": "FILE_ACCESS",
+        "severity": "HIGH",
+        "timestamp": "2026-04-18 12:42:29.521611"
+    },
+    {
+        "ip": "127.0.0.1",
+        "action": "FILE_ACCESS",
+        "severity": "HIGH",
+        "timestamp": "2026-04-18 12:42:33.364111"
+    },
+    {
+        "ip": "127.0.0.1",
+        "action": "FILE_ACCESS",
+        "severity": "HIGH",
+        "timestamp": "2026-04-18 12:49:50.774280"
+    },
+    {
+        "ip": "127.0.0.1",
+        "action": "ADMIN_API",
+        "severity": "HIGH",
+        "timestamp": "2026-04-18 12:51:52.665344"
+    },
+    {
+        "ip": "127.0.0.1",
+        "action": "FILE_ACCESS",
+        "severity": "HIGH",
+        "timestamp": "2026-04-18 12:57:27.141938"
+    },
+    {
+        "ip": "127.0.0.1",
+        "action": "ADMIN_API",
+        "severity": "HIGH",
+        "timestamp": "2026-04-18 12:58:52.187688"
+    }
+]
